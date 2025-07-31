@@ -1,6 +1,7 @@
-# 🎥 Multi-Agent YouTube ChatBot (Groq + LLaMA3)
-
 This is a **multi-agent conversational AI application** powered by **[LLaMA3 via Groq API]** and **[LangChain]**, designed to **extract**, **summarize**, and **interact** with YouTube videos intelligently. It enables rich, one-on-one conversations while maintaining contextual memory and fast responses using Groq hardware.
+
+---
+<img width="1536" height="1024" alt="ChatGPT Image Jul 31, 2025, 06_54_08 PM" src="https://github.com/user-attachments/assets/85811293-13a2-4c42-9422-111187ebd326" />
 
 ---
 
